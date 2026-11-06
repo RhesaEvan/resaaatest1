@@ -1,0 +1,14 @@
+#untuk mahasiswa dengan 262103020
+
+angka=int(input("20"))
+
+member('y')
+
+if angka >0 :
+     print("selamat anda mendapatkan diskon")
+elif debit %15 ==0:
+    print("selamat anda mendapatkan diskon")
+elif tunai %10 ==0:
+    print("selamat anda mendapatkan diskon")
+else:
+    print("tidak mendapatkan diskon")
